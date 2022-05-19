@@ -14,4 +14,5 @@ lllll
 Sample website with plenty of files for demos
 
 
-Git.training
+
+Git.training All rights reserved 
